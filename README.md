@@ -11,18 +11,7 @@ You should be able to check to see if it is functional by simply loading the web
 Please feel free to reach out to me via email, text, or phone,  if you have any questions.  The other web pages can be completed rather quickly.  However, without direct access to the server, I would rather make sure we have complete functionality, prior to proceeding with the remaining web pages.  Thanks!
 
 
-```javascript
-// <script type="text/javascript">
-//   var screenSize = window.screen.availWidth;
-//   if (screenSize <= 800) {
-//      var path = window.location.pathname;
-//      var page = path.split("/").pop();
-//      var loadMobile = ( 'm' + page );
-
-//      document.location = loadMobile;
-    }
-// </script>
-```
+![alt text](image_code.png "code")
 
 
 Where to place the code in welcome.html:
